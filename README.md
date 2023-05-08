@@ -7,8 +7,6 @@
 ## Dashboards
 - Home
 - Student  
-  -iuguig
-  
 - Admin 
  
 
