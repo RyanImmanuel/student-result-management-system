@@ -6,8 +6,7 @@
 
 ## Dashboards
 - Home
-- Student :
-   sdfsdfs
+- Student : - yugiugy
   
 - Admin :
  
