@@ -6,10 +6,10 @@
 
 ## Dashboards
 - Home
-- Student : 
+- Student  
 --iuguig
   
-- Admin :
+- Admin 
  
 
 
