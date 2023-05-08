@@ -5,11 +5,12 @@
 
 
 ## Dashboards
-- Patient
-- Doctor
-- Receptionist
-- Lab Person
-- Admin
+- Home
+- Student :
+  
+- Admin :
+ 
+
 
 ## Technologies Used
 Java, Eclipse IDE, JSP, Servlet, MySQL, Apache Tomcat 8.0.
