@@ -1,4 +1,15 @@
-# student-result-management-system
-📰 This is a Student Result Management System made for university J2EE Project 📈
+# 
 
-<h3>Technologies Used</h3>
+
+<h1 align="center">Student Result Management System<br/></h1>  
+
+
+## Dashboards
+- Patient
+- Doctor
+- Receptionist
+- Lab Person
+- Admin
+
+## Technologies Used
+Java, Eclipse IDE, JSP, Servlet, MySQL, Apache Tomcat 8.0.
